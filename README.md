@@ -1,25 +1,33 @@
 # Welcome to my GitHub
 
-Currently I'm working as a analyst in the analytics consulting industry in Toronto, ON for Environics Analytics, a Bell Canada Company. I have exprience in business development, sales, and working on software development teams.
+Currently, working as a analyst in Toronto, ON for Environics Analytics, a Bell Canada Company. I also own and operate an analytics education & consulting business called [Datathon Analytics](www.datathon.ca), I've run conferences and workshops with hundreds of attendees! My exprience is mostly in data science, business development, sales, and working in BA/QA roles on software development teams.
 
-**My Interests/Work:**
+### My Interests/Work:
 
 - Geospatial analytics & data work
-- Data engineering 
-- Agritech / Agriculture 🌱
+- Data engineering / analytics / data science
+- I love all things  Civic Tech / Agritech / Economic Development 🌱
 
-#### My Skills / Stuff I've Used:
+### Some of My Skills / Stuff I've Used:
 
-- Python
+Technical Stuff
+
+- Python / R ⚡
 - QGIS / ArcMap / ArcPro
 - Excel / Access
-- R
-- SQL / NoSQL
-- Alteryx
+- SQL / NoSQL + MongoDB / MySQL
+- Alteryx / KNIME
 - Tableau / PowerBI
 - JavaScript / HTML / CSS / PHP
 - C++
-- MongoDB / MySQL
+
+### Non-Technical Stuff
+
+- Teamwork 😄
+- Software Requirements Gathering + Writing
+- Project Management
+- Teaching / Workshop Development
+- Sales / Business Development / Marketing (Design, Strategy, Analytics)
 
 Add Me on [LinkedIn](https://www.linkedin.com/in/thomaslillo/) 💬
 
