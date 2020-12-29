@@ -1,4 +1,4 @@
-# Hello, I'm Tom, Welcome to my GitHub Page!
+# Hey I'm Tom
 
 Currently I'm working as a analyst in the analytics consulting industry in Toronto, ON for Environics Analytics, a Bell Canada Company. I have exprience in business development, sales, and working on software development teams.
 
