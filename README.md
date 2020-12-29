@@ -10,7 +10,7 @@ Currently, working as a analyst in Toronto, ON for [Environics Analytics](https:
 
 ### Some of My Skills / Stuff I've Used:
 
-Technical Stuff
+**Technical Stuff**
 
 - Python / R ⚡
 - QGIS / ArcMap / ArcPro
@@ -21,7 +21,7 @@ Technical Stuff
 - JavaScript / HTML / CSS / PHP
 - C++
 
-### Non-Technical Stuff
+**Non-Technical Stuff**
 
 - Teamwork 😄
 - Software Requirements Gathering + Writing
