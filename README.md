@@ -1,6 +1,6 @@
 # Welcome to my GitHub
 
-Currently, working as a analyst in Toronto, ON for Environics Analytics, a Bell Canada Company. I also own and operate an analytics education & consulting business called [Datathon Analytics](www.datathon.ca), I've run conferences and workshops with hundreds of attendees! My exprience is mostly in data science, business development, sales, and working in BA/QA roles on software development teams.
+Currently, working as a analyst in Toronto, ON for [Environics Analytics](https://environicsanalytics.com/en-ca), a Bell Canada Company. I also own and operate an analytics education & consulting business called [Datathon Analytics](www.datathon.ca), I've run conferences and workshops with hundreds of attendees! My exprience is mostly in data science, business development, sales, and working in BA/QA roles on software development teams.
 
 ### My Interests/Work:
 
