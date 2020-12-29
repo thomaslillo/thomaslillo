@@ -19,7 +19,7 @@ Currently I'm working as a analyst in the analytics consulting industry in Toron
 - Tableau / PowerBI
 - JavaScript / HTML / CSS / PHP
 - C++
-- MongoDB
+- MongoDB / MySQL
 
 Add Me on [LinkedIn](https://www.linkedin.com/in/thomaslillo/) 💬
 
