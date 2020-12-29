@@ -6,7 +6,7 @@ Currently, working as a analyst in Toronto, ON for [Environics Analytics](https:
 
 - Geospatial analytics & data work
 - Data engineering / analytics / data science
-- I love all things  Civic Tech / Agritech / Economic Development 🌱
+- I love all things  Civic Tech / Agritech / Social Tech 🌱
 
 ### Some of My Skills / Stuff I've Used:
 
