@@ -4,8 +4,9 @@ Currently, working as a analyst in Toronto, ON for [Environics Analytics](https:
 
 ### My Interests/Work:
 
-- Geospatial analytics & data work
-- Data engineering / analytics / data science
+- Geospatial analytics & data science
+- Product development & business development
+- Data engineering & databases
 - I love all things  Civic Tech / Agritech / Social Tech 🌱
 
 ### Some of My Skills / Stuff I've Used:
