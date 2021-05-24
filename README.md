@@ -9,8 +9,7 @@ Currently, working as a analyst in Toronto, ON for [Environics Analytics](https:
 - Data engineering & databases
 - I love all things  Civic Tech / Agritech / Social Tech 🌱
 
-My [personal site](https://thomaslillo.com)
-Add Me on [LinkedIn](https://www.linkedin.com/in/thomaslillo/) 💬
+Visit my [personal site](https://thomaslillo.com) or add me on [LinkedIn](https://www.linkedin.com/in/thomaslillo/) 💬
 
 <!--
 **thomaslillo/thomaslillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
