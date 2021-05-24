@@ -9,27 +9,7 @@ Currently, working as a analyst in Toronto, ON for [Environics Analytics](https:
 - Data engineering & databases
 - I love all things  Civic Tech / Agritech / Social Tech 🌱
 
-### Some of My Skills / Stuff I've Used:
-
-**Technical Stuff**
-
-- Python / R ⚡
-- QGIS / ArcMap / ArcPro
-- Excel / Access
-- SQL / NoSQL + MongoDB / MySQL
-- Alteryx / KNIME
-- Tableau / PowerBI
-- JavaScript / HTML / CSS / PHP
-- C++
-
-**Non-Technical Stuff**
-
-- Teamwork 😄
-- Software Requirements Gathering + Writing
-- Project Management
-- Teaching / Workshop Development
-- Sales / Business Development / Marketing (Design, Strategy, Analytics)
-
+My [personal site](https://thomaslillo.com)
 Add Me on [LinkedIn](https://www.linkedin.com/in/thomaslillo/) 💬
 
 <!--
