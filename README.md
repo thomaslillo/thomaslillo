@@ -1,12 +1,12 @@
 # Welcome to my GitHub
 
-Currently, working as a analyst in Toronto, ON for [Environics Analytics](https://environicsanalytics.com/en-ca). I also operate an analytics education conference & workshop not-for-profit called [Datathon Analytics](https://www.datathon.ca/), I've run conferences and workshops with hundreds of attendees! My exprience is mostly in data science, business development, sales, and working in BA/QA roles on software development teams.
+Currently, working as a analyst in Toronto, ON for [Environics Analytics](https://environicsanalytics.com/en-ca). I also operate an analytics education not-for-profit called [Datathon Analytics](https://www.datathon.ca/), I've run conferences and workshops with hundreds of attendees! My exprience is mostly in data analytics and engineering, business development, consulting, and working in BA/QA roles on software development teams.
 
 ### My Interests/Work:
 
 - Geospatial analytics & data science
-- Product development & business development
-- Data engineering & databases
+- Product & business development
+- Data engineering & data architecture
 - I love all things  Civic Tech / Agritech / Social Tech 🌱
 
 Visit my [personal site](https://thomaslillo.com) or add me on [LinkedIn](https://www.linkedin.com/in/thomaslillo/) 💬
