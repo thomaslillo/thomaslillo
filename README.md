@@ -1,12 +1,8 @@
 # Welcome to my GitHub
 
-Currently a backend developer for [Environics Analytics](https://environicsanalytics.com/en-ca) in Toronto, Canada. I also run an analytics education not-for-profit called [Datathon Analytics](https://www.datathon.ca/), we've run conferences and workshops with hundreds of attendees! 
+Currently a backend developer for [Environics Analytics](https://environicsanalytics.com/en-ca) in Toronto, Canada.
 
-### My Interests/Work:
-
-- Geospatial analytics & data science
-- Data engineering & architecture
-- I love all things  Civic Tech / Agritech / Social Tech 🌱
+Also running an analytics education not-for-profit [Datathon Analytics](https://www.datathon.ca/), we've run conferences and workshops with hundreds of attendees!
 
 Visit my [personal site](https://thomaslillo.com) or add me on [LinkedIn](https://www.linkedin.com/in/thomaslillo/) 💬
 
