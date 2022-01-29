@@ -2,7 +2,7 @@
 
 Currently a backend developer for [Environics Analytics](https://environicsanalytics.com/en-ca) in Toronto, Canada.
 
-Also running an analytics education not-for-profit [Datathon Analytics](https://www.datathon.ca/), we've run conferences and workshops with hundreds of attendees!
+Also co-founded an analytics education not-for-profit [Datathon Analytics](https://www.datathon.ca/), we've run conferences and workshops with hundreds of attendees!
 
 Visit my [personal site](https://thomaslillo.com) or add me on [LinkedIn](https://www.linkedin.com/in/thomaslillo/) 💬
 
