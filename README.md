@@ -6,6 +6,8 @@ Also co-founded an analytics education not-for-profit [Datathon Analytics](https
 
 Visit my [personal site](https://thomaslillo.com) or add me on [LinkedIn](https://www.linkedin.com/in/thomaslillo/) 💬
 
+Some Skills & Buzzwords: Python, C#, Javascript, SQL, R, MongoDB, Postgres, Snowflake, AWS, GCP, Docker, Terraform, Airflow, Tableau.
+
 <!--
 **thomaslillo/thomaslillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Image](6ce76d26-9c7a-4fd2-8675-f5d4225363d6-506ddfae-eea1-4438-88f8-9f15e6465492-v1.png)
