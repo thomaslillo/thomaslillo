@@ -6,10 +6,10 @@ Also co-founded an analytics education not-for-profit [Datathon Analytics](https
 
 Most of my experience is in software + data engineering and I have a background in geospatial technology and analytics.
 
-**Languages & Etc.** 📑
+💻 **Languages & Etc.** 
 Python, C#, SQL, R, C++, Powershell, Bash
 
-**Frameworks, Libraries, and Buzzwords** 🐝
+🐝 **Frameworks, Libraries, and Buzzwords** 
 Airflow, Alteryx, GIS, Web Development, Git, AWS, Data Warehousing, Snowflake, Google Cloud, Azure, Terraform, Docker
 
 Visit my [personal site](https://thomaslillo.com) or add me on [LinkedIn](https://www.linkedin.com/in/thomaslillo/) 💬
