@@ -10,7 +10,7 @@ Most of my experience is in software + data engineering and I have a background 
 Python, C#, SQL, R, C++, Javascript, Powershell, Bash
 
 💡 **Frameworks, Libraries, and Buzzwords:**  
-React, Flask, .NET, Alteryx, GIS, Git, AWS, Data Warehousing, Snowflake, Google Cloud, Airflow, Azure, Terraform, Docker, MongoDB, SQL Server, Pandas, (Py)Spark, Databricks, Spatial Analytics
+React, Flask, .NET, Alteryx, GIS, Git, AWS, Data Warehousing, Snowflake, Google Cloud, Airflow, Azure, Terraform, Docker, MongoDB, SQL Server, Pandas, (Py)Spark, Databricks, Spatial Data Science
 
 Visit my [personal site](https://thomaslillo.com) or add me on [LinkedIn](https://www.linkedin.com/in/thomaslillo/) 💬
 
