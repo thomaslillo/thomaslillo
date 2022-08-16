@@ -4,13 +4,13 @@ Currently a backend developer for [Environics Analytics](https://environicsanaly
 
 Also co-founded an analytics education not-for-profit [Datathon Analytics](https://www.datathon.ca/), we've run conferences and workshops with hundreds of attendees!
 
-Most of my experience is in software + data engineering and I have a background in geospatial tech and analytics.
+Most of my experience is in software + data engineering and I have a background in geography/geospatial tech and analytics.
 
 💻 **Languages:** 
-Python, C#, SQL, R, C++, Powershell, Bash
+Python, C#, SQL, R, C++, Javascript, Powershell, Bash
 
 💡 **Frameworks, Libraries, and Buzzwords:**  
-Flask, .NET, Alteryx, GIS, Git, AWS, Data Warehousing, Snowflake, Google Cloud, Airflow, Azure, Terraform, Docker, MongoDB, SQL Server
+React, Flask, .NET, Alteryx, GIS, Git, AWS, Data Warehousing, Snowflake, Google Cloud, Airflow, Azure, Terraform, Docker, MongoDB, SQL Server, Pandas, (Py)Spark, Databricks, Spatial Analytics
 
 Visit my [personal site](https://thomaslillo.com) or add me on [LinkedIn](https://www.linkedin.com/in/thomaslillo/) 💬
 
