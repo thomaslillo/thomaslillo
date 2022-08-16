@@ -10,7 +10,7 @@ Most of my experience is in software + data engineering and I have a background 
 Python, C#, SQL, R, C++, Powershell, Bash
 
 💡 **Frameworks, Libraries, and Buzzwords:**  
-Airflow, .NET, Alteryx, GIS, Git, AWS, Data Warehousing, Snowflake, Google Cloud, Azure, Terraform, Docker, MongoDB, SQL Server
+Flask, .NET, Alteryx, GIS, Git, AWS, Data Warehousing, Snowflake, Google Cloud, Airflow, Azure, Terraform, Docker, MongoDB, SQL Server
 
 Visit my [personal site](https://thomaslillo.com) or add me on [LinkedIn](https://www.linkedin.com/in/thomaslillo/) 💬
 
