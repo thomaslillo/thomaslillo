@@ -7,7 +7,7 @@ Also co-founded an analytics education not-for-profit [Datathon Analytics](https
 Most of my experience is in software + data engineering and I have a background in geography/geospatial tech and analytics.
 
 💻 **Languages:** 
-Python, C#, SQL, R, C++, Javascript, Powershell, Bash
+Python, C#, SQL, R, Javascript, Powershell, Bash, and a little C++ from school
 
 💡 **Frameworks, Libraries, and Buzzwords:**  
 React, Flask, .NET, Alteryx, GIS, Git, AWS, Data Warehousing, Snowflake, Google Cloud, Airflow, Azure, Terraform, Docker, MongoDB, SQL Server, Pandas, (Py)Spark, Databricks, Spatial Data Science
