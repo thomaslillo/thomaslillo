@@ -29,7 +29,13 @@ Visit my [personal site](https://thomaslillo.com) or add me on [LinkedIn](https:
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <br />
 
+#### With no icons :( 
+Snowflake, QGIS, ArcPro, Airflow, and Databricks
+
 <!--
+
+https://demolab.com/
+
 **thomaslillo/thomaslillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Image](6ce76d26-9c7a-4fd2-8675-f5d4225363d6-506ddfae-eea1-4438-88f8-9f15e6465492-v1.png)
 Here are some ideas to get you started:
