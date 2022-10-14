@@ -26,7 +26,11 @@ Visit my [personal site](https://thomaslillo.com) or add me on [LinkedIn](https:
 <img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+
+
 <br />
+
+
 
 #### With no icons 😔: Snowflake, QGIS, ArcPro, Airflow, and Databricks
 
