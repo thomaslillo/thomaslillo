@@ -1,6 +1,6 @@
 # Welcome to my GitHub
 
-Currently a backend / API / data developer for [Environics Analytics](https://environicsanalytics.com/en-ca) in Toronto, Canada.
+Currently a software developer for [Environics Analytics](https://environicsanalytics.com/en-ca) in Toronto, Canada.
 
 Also co-founded an analytics education not-for-profit [Datathon Analytics](https://www.datathon.ca/), we've run conferences and workshops with hundreds of attendees!
 
