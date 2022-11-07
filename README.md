@@ -8,7 +8,7 @@ Most of my experience is in software + data engineering and I have a background 
 
 Visit my [personal site](https://thomaslillo.com) or add me on [LinkedIn](https://www.linkedin.com/in/thomaslillo/) 💬
 
-### 💻 Languages, Databases, and Tools
+### 💻 My Fav Languages, Databases, and Tools
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
