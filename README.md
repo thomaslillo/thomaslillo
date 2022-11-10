@@ -30,7 +30,7 @@ Visit my [personal site](https://thomaslillo.com) or add me on [LinkedIn](https:
 
 
 
-#### With no icons 😔: Snowflake, QGIS, SQL Server, Flask, ArcPro, Airflow, and Databricks
+#### With no icons 😔: Snowflake, QGIS, SQL Server, Flask, ArcPro, Airflow, Supabase, and Databricks
 
 <!--
 
