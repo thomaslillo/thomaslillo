@@ -2,7 +2,7 @@
 
 Currently a software developer for [Environics Analytics](https://environicsanalytics.com/en-ca) in Toronto, Canada.
 
-Also a geography/geospatial data science guy and co-founded an analytics education not-for-profit [Datathon Analytics](https://www.datathon.ca/), we've run conferences and workshops with hundreds of attendees!
+Also a geography/geospatial data science guy and co-founded an analytics education not-for-profit Datathon Analytics, we've run conferences and workshops with hundreds of attendees!
 
 Visit my [personal site](https://thomaslillo.com) or add me on [LinkedIn](https://www.linkedin.com/in/thomaslillo/) 💬
 
