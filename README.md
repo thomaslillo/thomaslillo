@@ -1,12 +1,12 @@
-# Welcome to my GitHub
+# Wow what a suprise, welcome to my GitHub
 
-Currently a software developer for [Environics Analytics](https://environicsanalytics.com/en-ca) in Toronto, Canada.
+Software dev and mapper/spatial data science guy and co-founded an analytics education not-for-profit Datathon Analytics, we've run conferences and workshops with hundreds of attendees!
 
-Also a geography/geospatial data science guy and co-founded an analytics education not-for-profit Datathon Analytics, we've run conferences and workshops with hundreds of attendees!
+#### 🌍  I'm based in Toronto, Canada
 
 Visit my [personal site](https://thomaslillo.com) or add me on [LinkedIn](https://www.linkedin.com/in/thomaslillo/) 💬
 
-### 💻 My Fav Languages, Databases, and Tools
+### 💻 My Favs
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -26,9 +26,7 @@ Visit my [personal site](https://thomaslillo.com) or add me on [LinkedIn](https:
 
 <br />
 
-
-
-#### With no icons 😔: Snowflake, QGIS, SQL Server, Flask, ArcPro, Airflow, Supabase, and Databricks
+#### Plus Snowflake, QGIS, SQL Server, Flask, ArcPro, Airflow, Supabase, and Databricks
 
 <!--
 
