@@ -4,7 +4,7 @@ Software dev and mapper/spatial data science guy and co-founded an analytics edu
 
 #### 🌍  Based in Toronto, Canada
 
-#### Visit my [personal site](https://thomaslillo.com) or add me on [LinkedIn](https://www.linkedin.com/in/thomaslillo/) 💬
+#### 💬 Visit my [personal site](https://thomaslillo.com) or add me on [LinkedIn](https://www.linkedin.com/in/thomaslillo/
 
 ### 💻 My Favs
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
