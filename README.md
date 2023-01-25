@@ -2,7 +2,7 @@
 
 Software dev and mapper/spatial data science guy and co-founded an analytics education not-for-profit Datathon Analytics, we've run conferences and workshops with hundreds of attendees!
 
-#### 🌍  I'm based in Toronto, Canada
+#### 🌍  Based in Toronto, Canada
 
 Visit my [personal site](https://thomaslillo.com) or add me on [LinkedIn](https://www.linkedin.com/in/thomaslillo/) 💬
 
