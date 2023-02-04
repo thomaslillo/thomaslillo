@@ -1,6 +1,6 @@
 # Wow what a suprise, welcome to my GitHub
 
-Software dev and spatial data science guy (I like maps) and co-founded an analytics education not-for-profit Datathon Analytics, we've run conferences and workshops with hundreds of attendees!
+Software developer, spatial data science guy (I like maps), and co-founded an analytics education not-for-profit Datathon Analytics, we've run conferences and workshops with hundreds of attendees!
 
 #### 🌍  Based in Toronto, Canada
 
