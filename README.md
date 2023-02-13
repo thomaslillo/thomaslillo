@@ -6,6 +6,10 @@ Software developer, spatial data science guy (I like maps), and co-founded an an
 
 #### 💬 Visit my [personal site](https://thomaslillo.com) or add me on [LinkedIn](https://www.linkedin.com/in/thomaslillo/)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomaslillo)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
 ### 💻 My Favs
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -28,7 +32,6 @@ Software developer, spatial data science guy (I like maps), and co-founded an an
 
 #### Plus Snowflake, QGIS, SQL Server, Flask, ArcPro, Airflow, Supabase, and Databricks
 
-<!--
 
 <img align="left" alt="SQLServer" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 <img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
@@ -53,6 +56,5 @@ Python, C#, SQL, R, Javascript, Powershell, Bash, and a little C++ from school
 
 💡 **Frameworks, Libraries, and Buzzwords:**  
 React, Flask, .NET, Alteryx, GIS, Git, AWS, Data Warehousing, Snowflake, Google Cloud, Airflow, Azure, Terraform, Docker, MongoDB, SQL Server, Pandas, (Py)Spark, Databricks, Spatial Data Science
-
 
 -->
