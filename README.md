@@ -7,7 +7,7 @@ Software developer, spatial data science guy (I like maps), and co-founded an an
 #### 💬 Visit my [personal site](https://thomaslillo.com) or add me on [LinkedIn](https://www.linkedin.com/in/thomaslillo/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomaslillo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomaslillo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 ### 💻 My Favs
