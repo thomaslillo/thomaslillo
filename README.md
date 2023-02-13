@@ -5,11 +5,11 @@ Software developer, spatial data science guy (I like maps), and co-founded an an
 #### 🌍  Based in Toronto, Canada
 
 #### 💬 Visit my [personal site](https://thomaslillo.com) or add me on [LinkedIn](https://www.linkedin.com/in/thomaslillo/)
-
+<!--
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomaslillo&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
+
 ### 💻 My Favs
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
