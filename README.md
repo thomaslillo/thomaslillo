@@ -10,6 +10,13 @@ Software developer, spatial data science guy (I like maps), and co-founded an an
 
 <!--
 
+get the logo names here and colors
+https://simpleicons.org/?q=Terra
+
+make them here
+https://shields.io/badges/static-badge
+
+
 https://demolab.com/
 
 **thomaslillo/thomaslillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
